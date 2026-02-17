@@ -21,6 +21,9 @@ class MainActivity : AppCompatActivity() {
         binding.imgProfileToolbar.setOnClickListener {
             startActivity(Intent(this, AboutActivity::class.java))
         }
+        binding.tvProfile.setOnClickListener {
+            startActivity(Intent(this, AboutActivity::class.java))
+        }
 
         // RecyclerView setup
         binding.rvPlanets.setHasFixedSize(true)

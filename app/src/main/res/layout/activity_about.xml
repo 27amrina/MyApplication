@@ -54,7 +54,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="6dp"
-            android:text="@string/amrinarosada30_com"
+            android:text="@string/amrinarosada30_gmail_com"
             android:textColor="#8A8A8A"
             android:textSize="13sp" />
 
