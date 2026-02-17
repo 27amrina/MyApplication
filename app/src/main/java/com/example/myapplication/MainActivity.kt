@@ -2,6 +2,8 @@ package com.example.myapplication
 
 import android.content.Intent
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -17,24 +19,36 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        // Klik icon profile -> About
-        binding.imgProfileToolbar.setOnClickListener {
-            startActivity(Intent(this, AboutActivity::class.java))
-        }
-        binding.tvProfile.setOnClickListener {
-            startActivity(Intent(this, AboutActivity::class.java))
-        }
+        // Hubungkan Toolbar sebagai ActionBar (agar menu muncul)
+        setSupportActionBar(binding.toolbarMain)
 
         // RecyclerView setup
         binding.rvPlanets.setHasFixedSize(true)
         binding.rvPlanets.layoutManager = LinearLayoutManager(this)
 
-        // Isi data (VERSI LENGKAP)
+        // Isi data
         list.clear()
         list.addAll(getListPlanets())
 
         // Tampilkan list + klik item ke detail
         showRecyclerList()
+    }
+
+    // Inflate menu_main.xml ke Toolbar
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu_main, menu)
+        return true
+    }
+
+    // Handle klik item menu
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        return when (item.itemId) {
+            R.id.menu_profile -> {
+                startActivity(Intent(this, AboutActivity::class.java))
+                true
+            }
+            else -> super.onOptionsItemSelected(item)
+        }
     }
 
     private fun getListPlanets(): ArrayList<Planet> {

@@ -15,39 +15,9 @@
         android:layout_height="60dp"
         android:background="#BDBDBD"
         android:elevation="4dp"
-        app:title="Welcome to Planets"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent">
-
-
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_gravity="end"
-            android:orientation="horizontal"
-            android:gravity="center_vertical"
-            android:layout_marginEnd="16dp">
-
-            <ImageView
-                android:id="@+id/img_profile_toolbar"
-                android:layout_width="28dp"
-                android:layout_height="28dp"
-                android:src="@drawable/baseline_person_24"
-                android:clickable="true"
-                android:focusable="true"/>
-
-            <TextView
-                android:id="@+id/tv_profile"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Profil"
-                android:textSize="14sp"
-                android:layout_marginStart="6dp"
-                android:textColor="@android:color/black"/>
-
-        </LinearLayout>
-    </androidx.appcompat.widget.Toolbar>
+        app:layout_constraintEnd_toEndOf="parent"/>
 
     <!-- RecyclerView -->
     <androidx.recyclerview.widget.RecyclerView
