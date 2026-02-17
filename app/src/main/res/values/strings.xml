@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Submission Akhir Planets</string>
+
+    <string name="heroes_name">Nama Benda Langit</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail_quick_facts">Quick Facts</string>
+    <string name="detail_fun_facts">Fakta Menarik</string>
+    <string name="detail_other_planets">Planet lainnya</string>
+    <string name="profile_image">Foto profil</string>
+
+    <string name="label_type">Tipe</string>
+    <string name="label_distance">Jarak</string>
+    <string name="label_day">Rotasi</string>
+    <string name="label_year">Revolusi</string>
+    <string name="label_temp">Suhu</string>
+    <string name="amrina">Amrina</string>
+    <string name="amrinarosada30_com">amrinarosada30.com</string>
+
+    <string-array name="data_name">
+        <item>Merkurius</item>
+        <item>Venus</item>
+        <item>Bumi</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturnus</item>
+        <item>Uranus</item>
+        <item>Neptunus</item>
+        <item>Pluto</item>
+        <item>Matahari</item>
+        <item>Bulan</item>
+        <item>Asteroid</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Planet terdekat dari Matahari dan memiliki suhu yang sangat ekstrem.
+
+Merkurius tidak memiliki atmosfer tebal untuk melindungi permukaannya, sehingga perbedaan suhu antara siang dan malam sangat drastis. Pada siang hari suhunya bisa mencapai lebih dari 400°C, sedangkan pada malam hari dapat turun hingga -170°C.
+
+Planet ini memiliki permukaan yang penuh kawah akibat tumbukan meteorit. Karena jaraknya sangat dekat dengan Matahari, satu tahun di Merkurius jauh lebih singkat dibandingkan Bumi, namun rotasinya yang lambat membuat satu hari di sana terasa sangat panjang.</item>
+
+        <item>Planet terpanas di Tata Surya karena efek rumah kaca yang sangat kuat.
+
+Atmosfer Venus yang tebal didominasi oleh karbon dioksida dan awan asam sulfat. Kondisi ini menyebabkan panas terperangkap sehingga suhu permukaannya bisa mencapai sekitar 465°C.
+
+Permukaan Venus dipenuhi gunung berapi dan dataran lava yang luas. Meskipun ukurannya hampir mirip dengan Bumi, kondisi lingkungannya sangat tidak ramah bagi kehidupan.</item>
+
+        <item>Satu-satunya planet yang diketahui memiliki kehidupan.
+
+Bumi memiliki atmosfer yang kaya akan oksigen, air dalam bentuk cair, serta suhu yang relatif stabil. Faktor-faktor ini memungkinkan berbagai bentuk kehidupan berkembang.
+
+Sekitar 71% permukaan Bumi tertutup oleh air. Selain itu, medan magnet Bumi melindungi kita dari radiasi berbahaya Matahari.</item>
+
+        <item>Dikenal sebagai planet merah karena permukaannya yang kaya oksida besi.
+
+Mars memiliki gunung tertinggi di Tata Surya, Olympus Mons, serta lembah raksasa bernama Valles Marineris. Bukti menunjukkan bahwa Mars pernah memiliki aliran air di masa lalu.
+
+Saat ini Mars menjadi fokus eksplorasi luar angkasa karena potensinya untuk dihuni manusia di masa depan.</item>
+
+        <item>Planet terbesar di Tata Surya dengan badai besar bernama Great Red Spot.
+
+Jupiter adalah planet raksasa gas yang sebagian besar tersusun dari hidrogen dan helium. Great Red Spot merupakan badai raksasa yang telah berlangsung selama ratusan tahun.
+
+Planet ini memiliki banyak satelit alami, termasuk Ganymede yang merupakan bulan terbesar di Tata Surya.</item>
+
+        <item>Terkenal dengan cincin indah yang mengelilinginya.
+
+Saturnus adalah planet raksasa gas dengan sistem cincin paling mencolok yang tersusun dari es dan batuan kecil. Cincin-cincin ini membentang sangat luas namun tipis.
+
+Saturnus memiliki banyak bulan, salah satunya Titan yang memiliki atmosfer tebal dan danau metana cair.</item>
+
+        <item>Planet raksasa es yang berputar miring hampir 90 derajat.
+
+Uranus memiliki warna kebiruan karena kandungan metana di atmosfernya. Kemiringan ekstremnya menyebabkan musim yang sangat panjang dan unik.
+
+Planet ini memiliki sistem cincin tipis serta beberapa satelit alami yang dinamai berdasarkan tokoh karya sastra.</item>
+
+        <item>Planet terluar dengan angin tercepat di Tata Surya.
+
+Neptunus adalah planet raksasa es yang memiliki warna biru pekat. Kecepatan angin di atmosfernya bisa mencapai lebih dari 2.000 km/jam.
+
+Planet ini ditemukan melalui perhitungan matematika sebelum akhirnya diamati secara langsung dengan teleskop.</item>
+
+        <item>Planet katai yang berada di Sabuk Kuiper.
+
+Pluto pernah dianggap sebagai planet kesembilan sebelum diklasifikasikan ulang pada tahun 2006. Orbitnya yang unik dan miring membuatnya berbeda dari planet lain.
+
+Pluto memiliki lima satelit, yang terbesar bernama Charon, dengan ukuran yang hampir setengah dari Pluto sendiri.</item>
+
+        <item>Bintang pusat Tata Surya yang menjadi sumber energi bagi kehidupan di Bumi.
+
+Matahari menghasilkan energi melalui proses fusi nuklir yang mengubah hidrogen menjadi helium. Energi ini dipancarkan dalam bentuk cahaya dan panas.
+
+Tanpa Matahari, tidak akan ada kehidupan di Bumi. Gravitasi Matahari juga menjaga semua planet tetap berada di orbitnya.</item>
+
+        <item>Satelit alami Bumi yang memengaruhi pasang surut air laut.
+
+Bulan terbentuk sekitar 4,5 miliar tahun yang lalu dan tidak memiliki atmosfer tebal. Permukaannya dipenuhi kawah akibat tumbukan meteorit.
+
+Fase-fase Bulan terjadi karena perubahan posisi relatif antara Bumi, Bulan, dan Matahari.</item>
+
+        <item>Benda langit kecil berbatu yang banyak terdapat di sabuk asteroid antara Mars dan Jupiter.
+
+Asteroid merupakan sisa pembentukan Tata Surya miliaran tahun yang lalu. Ukurannya bervariasi dari beberapa meter hingga ratusan kilometer.
+
+Beberapa asteroid berpotensi mendekati Bumi, sehingga terus dipantau oleh para ilmuwan untuk mengantisipasi kemungkinan tumbukan.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/fixed_merkurius</item>
+        <item>@drawable/fixed_venus</item>
+        <item>@drawable/fixed_bumi</item>
+        <item>@drawable/fixed_mars</item>
+        <item>@drawable/fixed_jupiter</item>
+        <item>@drawable/fixed_saturnus</item>
+        <item>@drawable/fixed_uranus</item>
+        <item>@drawable/fixed_neptunus</item>
+        <item>@drawable/fixed_pluto</item>
+        <item>@drawable/fixed_matahari</item>
+        <item>@drawable/fixed_bulan</item>
+        <item>@drawable/fixed_asteroid</item>
+    </integer-array>
+
+    <string-array name="data_type">
+        <item>Planet Batu</item>
+        <item>Planet Batu</item>
+        <item>Planet Batu</item>
+        <item>Planet Batu</item>
+        <item>Raksasa Gas</item>
+        <item>Raksasa Gas</item>
+        <item>Raksasa Es</item>
+        <item>Raksasa Es</item>
+        <item>Planet Katai</item>
+        <item>Bintang</item>
+        <item>Satelit</item>
+        <item>Benda Kecil</item>
+    </string-array>
+
+    <string-array name="data_distance">
+        <item>57,9 juta km</item>
+        <item>108,2 juta km</item>
+        <item>149,6 juta km</item>
+        <item>227,9 juta km</item>
+        <item>778,5 juta km</item>
+        <item>1,43 miliar km</item>
+        <item>2,87 miliar km</item>
+        <item>4,50 miliar km</item>
+        <item>5,9 miliar km</item>
+        <item>—</item>
+        <item>384.400 km (dari Bumi)</item>
+        <item>Variatif</item>
+    </string-array>
+
+    <string-array name="data_day">
+        <item>59 hari</item>
+        <item>243 hari</item>
+        <item>24 jam</item>
+        <item>24,6 jam</item>
+        <item>9,9 jam</item>
+        <item>10,7 jam</item>
+        <item>17,2 jam</item>
+        <item>16,1 jam</item>
+        <item>6,4 hari</item>
+        <item>~25–35 hari</item>
+        <item>27,3 hari</item>
+        <item>Variatif</item>
+    </string-array>
+
+    <string-array name="data_year">
+        <item>88 hari</item>
+        <item>225 hari</item>
+        <item>365 hari</item>
+        <item>687 hari</item>
+        <item>11,9 tahun</item>
+        <item>29,5 tahun</item>
+        <item>84 tahun</item>
+        <item>165 tahun</item>
+        <item>248 tahun</item>
+        <item>—</item>
+        <item>—</item>
+        <item>—</item>
+    </string-array>
+
+    <string-array name="data_temp">
+        <item>-170°C s/d 430°C</item>
+        <item>~465°C</item>
+        <item>~15°C</item>
+        <item>~ -60°C</item>
+        <item>~ -110°C</item>
+        <item>~ -140°C</item>
+        <item>~ -195°C</item>
+        <item>~ -200°C</item>
+        <item>~ -230°C</item>
+        <item>~ 5.500°C (permukaan)</item>
+        <item>~ -20°C</item>
+        <item>Variatif</item>
+    </string-array>
+
+    <string-array name="data_funfacts">
+        <item>Merkurius hampir tidak punya atmosfer tebal.\nPermukaannya dipenuhi kawah seperti Bulan.\nSatu hari terasa sangat panjang.</item>
+        <item>Venus berotasi berlawanan arah dari kebanyakan planet.\nTekanan udaranya sangat tinggi.\nPermukaannya tertutup awan asam.</item>
+        <item>Bumi punya air cair melimpah.\nSatu-satunya planet yang diketahui memiliki kehidupan.\nMemiliki medan magnet pelindung.</item>
+        <item>Di Mars ada Olympus Mons, gunung tertinggi di Tata Surya.\nAda bukti jejak air purba.\nSedang jadi target eksplorasi manusia.</item>
+        <item>Jupiter punya Great Red Spot.\nMedan magnetnya sangat kuat.\nBulan Ganymede adalah yang terbesar.</item>
+        <item>Cincin Saturnus tersusun dari es dan batu.\nTitan punya atmosfer tebal.\nDensitas Saturnus lebih rendah dari air.</item>
+        <item>Uranus “rebah” karena kemiringan ekstrem.\nPunya cincin tipis.\nWarna biru-hijau dari metana.</item>
+        <item>Angin Neptunus termasuk tercepat.\nDitemukan melalui perhitungan matematika.\nPunya badai besar seperti Dark Spot.</item>
+        <item>Pluto punya satelit besar bernama Charon.\nOrbitnya unik dan miring.\nDiklasifikasi ulang jadi planet katai.</item>
+        <item>Matahari adalah bintang tipe G.\nEnergi dari fusi hidrogen menjadi helium.\nGravitasi menjaga orbit planet.</item>
+        <item>Bulan memengaruhi pasang surut.\nFasenya berubah setiap bulan.\nPermukaannya penuh kawah.</item>
+        <item>Asteroid adalah sisa pembentukan Tata Surya.\nBanyak berada di kabuki antara Mars dan Jupiter.\nSebagian bisa mendekati Bumi.</item>
+    </string-array>
+
+</resources>
